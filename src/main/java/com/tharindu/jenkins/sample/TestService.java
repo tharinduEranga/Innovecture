@@ -1,4 +1,4 @@
 package com.tharindu.jenkins.sample;
 
-public class TestService {
+public class TestService 
 }
